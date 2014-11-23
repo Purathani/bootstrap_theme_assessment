@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<libraries>
+  <library>
+    <location>less/bootstrap</location>
+    <name>Bootstrap</name>
+    <license>Apache</license>
+    <version>3.2.0</version>
+    <licenseversion>2.0</licenseversion>
+  </library>
+  <library>
+    <location>javascript/html5shiv.js</location>
+    <name>Html5Shiv</name>
+    <license>Apache</license>
+    <version>3.7.0</version>
+    <licenseversion>2.0</licenseversion>
+  </library>
+    <library>
+        <location>jquery/html5shiv_3_7_2.js</location>
+        <name>Html5Shiv</name>
+        <license>GPL</license>
+        <version>3.7.2</version>
+        <licenseversion>2.0</licenseversion>
+    </library>
+      <library>
+        <location>jquery/fitvids_1_1.js</location>
+        <name>FitVids auto video sizer</name>
+        <license>WTFPL</license>
+        <version>1_1</version>
+        <licenseversion>2.0</licenseversion>
+    </library>
+</libraries>
